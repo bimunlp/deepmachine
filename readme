@@ -1,2 +1,4 @@
 www.deepmachine.cn
 jupyter notebook collections
+这个仓库中的文件都是谷歌机器学习速成课中所使用的练习，并且封装到了在线jupyter环境，传送门https://mybinder.org/v2/gh/yiyouls/deepmachine/master
+查看课程更多内容请前往 https://deepmachine.cn/courses/google_deeplearning_crushcourse
